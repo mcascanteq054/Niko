@@ -12,15 +12,15 @@ export default {
     extend: {
       colors: {
         color: {
-          1: "#AC6AFF",
-          2: "#FFC876",
-          3: "#FF776F",
-          4: "#7ADB78",
-          5: "#858DFF",
-          6: "#FF98E2",
+          1: "#0FF776",
+          2: "#0FF776",
+          3: "#0FF776",
+          4: "#0FF776",
+          5: "#0FF776",
+          6: "#0FF776",
         },
         stroke: {
-          1: "#26242C",
+          1: "#292527",
         },
         n: {
           1: "#FFFFFF",
@@ -30,9 +30,9 @@ export default {
           5: "#3F3A52",
           6: "#252134",
           7: "#15131D",
-          8: "#0E0C15",
+          8: "#140C14",
           9: "#474060",
-          10: "#43435C",
+          10: "#59405A",
           11: "#1B1B2E",
           12: "#2E2A41",
           13: "#6C7275",
@@ -73,7 +73,7 @@ export default {
       backgroundImage: {
         "radial-gradient": "radial-gradient(var(--tw-gradient-stops))",
         "conic-gradient":
-          "conic-gradient(from 225deg, #FFC876, #79FFF7, #9F53FF, #FF98E2, #FFC876)",
+          "conic-gradient(from 225deg, #CBF52F, #CBF52F, #CBF52F, #CBF52F, #CBF52F)",
         "benefit-card-1": "url(assets/benefits/card-1.svg)",
         "benefit-card-2": "url(assets/benefits/card-2.svg)",
         "benefit-card-3": "url(assets/benefits/card-3.svg)",

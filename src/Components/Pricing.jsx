@@ -15,7 +15,8 @@ const Pricing = () => {
                     </div>
                 </div>
                 <Heading tag="Get started with brainwave"
-                    title="Pay once, use forever" />
+                    // title="Pay once, use forever" 
+                    />
                 <div className="relative">
                     <Pricinglist />
                     <LeftLine />

@@ -11,7 +11,7 @@ const Benefits = () => {
             <div className="container relative z-2">
                 <Heading
                     className="md:max-w-md lg:max-w-2xl"
-                    title="Chat Smarter, Not Harderwith Brainwave"
+                    title="Niko AI siempre &#10;&#13; te recibirá con calidez y entusiasmo."
                 />
                 <div className="flex flex-wrap gap-10 mb-10">
                     {benefits.map((item) => (
@@ -26,7 +26,7 @@ const Benefits = () => {
                                 <p className="body-2 mb-6 text-n-3">{item.text}</p>
                                 <div className="flex items-center mt-auto">
                                     <img src={item.iconUrl} width={48} height={84} alt={item.title} />
-                                    <p className="ml-auto font-code text-xs font-bold text-n-1 uppercase tracking-wider"> Explore more</p>
+                                    <p className="ml-auto font-code text-xs font-bold text-n-1 uppercase tracking-wider"> Explorar</p>
                                     <Arrow />
                                 </div>
                             </div>

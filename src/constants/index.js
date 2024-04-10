@@ -44,7 +44,7 @@ import {
     },
     {
       id: "1",
-      title: "Pricing",
+      title: "Precio",
       url: "#pricing",
     },
     {
@@ -59,13 +59,13 @@ import {
     },
     {
       id: "4",
-      title: "New account",
+      title: "Crear cuenta",
       url: "#signup",
       onlyMobile: true,
     },
     {
       id: "5",
-      title: "Sign in",
+      title: "Ingresar",
       url: "#login",
       onlyMobile: true,
     },
@@ -78,9 +78,9 @@ import {
   export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
   
   export const brainwaveServices = [
-    "Photo generating",
-    "Photo enhance",
-    "Seamless Integration",
+    "Información al instante",
+    "Palabras clave",
+    "Intercambio de archivos",
   ];
   
   export const brainwaveServicesIcons = [
@@ -94,7 +94,7 @@ import {
   export const roadmap = [
     {
       id: "0",
-      title: "Voice recognition",
+      title: "Una Interfaz Increible",
       text: "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
       date: "May 2023",
       status: "done",
@@ -103,7 +103,7 @@ import {
     },
     {
       id: "1",
-      title: "Gamification",
+      title: "Widgets Incrustables",
       text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
       date: "May 2023",
       status: "progress",
@@ -111,7 +111,7 @@ import {
     },
     {
       id: "2",
-      title: "Chatbot customization",
+      title: "Widgets Incrustables",
       text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
       date: "May 2023",
       status: "done",
@@ -119,7 +119,7 @@ import {
     },
     {
       id: "3",
-      title: "Integration with APIs",
+      title: "Insights sobre tu negocio",
       text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
       date: "May 2023",
       status: "progress",
@@ -128,21 +128,20 @@ import {
   ];
   
   export const collabText =
-    "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+    "Ofrece ayuda automatizada 24/7 con un Chatbot de Servicio al Cliente de Niko AI";
   
   export const collabContent = [
     {
       id: "0",
-      title: "Seamless Integration",
-      text: collabText,
+      title: "Colaboración perfecta",
     },
     {
       id: "1",
-      title: "Smart Automation",
+      title: "Automatización Inteligente",
     },
     {
       id: "2",
-      title: "Top-notch Security",
+      title: "Seguridad de primer nivel",
     },
   ];
   
@@ -244,16 +243,16 @@ import {
   export const benefits = [
     {
       id: "0",
-      title: "Ask anything",
-      text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+      title: "Pregunta lo que sea",
+      text: "Deja que tus clientes encuentren rápidamente las respuestas a sus preguntas sobre tu negocio, toda la información la tiene tu chatbot.",
       backgroundUrl: "./src/assets/benefits/card-1.svg",
       iconUrl: benefitIcon1,
       imageUrl: benefitImage2,
     },
     {
       id: "1",
-      title: "Improve everyday",
-      text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+      title: "Centraliza tus mensajes",
+      text: "Prueba nuestro inbox unificado. Recibe los mensajes de todas las plataformas en un solo lugar.",
       backgroundUrl: "./src/assets/benefits/card-2.svg",
       iconUrl: benefitIcon2,
       imageUrl: benefitImage2,
@@ -261,16 +260,16 @@ import {
     },
     {
       id: "2",
-      title: "Connect everywhere",
-      text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+      title: "Impulsa tu marketing",
+      text: "Conecta el chatbot de IA con Whatsapp para crear un embudo perfecto. Atiende a tus clientes en cualquier momento y lugar.",
       backgroundUrl: "./src/assets/benefits/card-3.svg",
       iconUrl: benefitIcon3,
       imageUrl: benefitImage2,
     },
     {
       id: "3",
-      title: "Fast responding",
-      text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+      title: "Conecta tus tickets",
+      text: "Gestiona la atención al cliente de manera efectiva y fácil con nuestro súper sistema de tickets.",
       backgroundUrl: "./src/assets/benefits/card-4.svg",
       iconUrl: benefitIcon4,
       imageUrl: benefitImage2,
@@ -278,16 +277,16 @@ import {
     },
     {
       id: "4",
-      title: "Ask anything",
-      text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+      title: "Intercambia archivos",
+      text: "Envía y recibe archivos durante tus conversaciones de IA cuando las palabras no sean suficiente.",
       backgroundUrl: "./src/assets/benefits/card-5.svg",
       iconUrl: benefitIcon1,
       imageUrl: benefitImage2,
     },
     {
       id: "5",
-      title: "Improve everyday",
-      text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+      title: "Conoce a tus clientes",
+      text: "Con nuestro Perfil Unificado del Cliente podrás recolectar, y gestionar automaticamente la información de tus clientes.",
       backgroundUrl: "./src/assets/benefits/card-6.svg",
       iconUrl: benefitIcon2,
       imageUrl: benefitImage2,
