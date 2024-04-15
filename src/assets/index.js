@@ -1,4 +1,5 @@
 import brainwave from "./brainwave.svg";
+import nikoai from "./nikoai.svg";
 import check from "./check.svg";
 import brainwaveSymbol from "./brainwave-symbol.svg";
 import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
@@ -35,6 +36,7 @@ import photoshop from "./collaboration/photoshop.png";
 import protopie from "./collaboration/protopie.png";
 import raindrop from "./collaboration/raindrop.png";
 import slack from "./collaboration/slack.png";
+import whatsapp from "./collaboration/whatsapp.png";
 
 import service1 from "./services/service-1.png";
 import service2 from "./services/service-2.png";
@@ -76,6 +78,7 @@ import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
 
 export {
+  nikoai,
   brainwave,
   check,
   check2,
@@ -100,6 +103,7 @@ export {
   background,
   curve,
   robot,
+  whatsapp,
   heroBackground,
   curve1,
   curve2,

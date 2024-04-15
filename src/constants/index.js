@@ -33,6 +33,7 @@ import {
     sliders04,
     telegram,
     twitter,
+    whatsapp,
     yourlogo,
   } from "../../src/assets";
   
@@ -197,8 +198,8 @@ import {
     },
     {
       id: "7",
-      title: "Raindrop",
-      icon: raindrop,
+      title: "Whatsapp",
+      icon: whatsapp,
       width: 38,
       height: 32,
     },
